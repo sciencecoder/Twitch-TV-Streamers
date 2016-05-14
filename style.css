@@ -1,0 +1,15 @@
+body {
+  background-color: aquamarine;
+  text-align: center
+}
+
+.wrap {
+  width: 40%;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+.stat {
+  background-color: biege;
+} 
+
